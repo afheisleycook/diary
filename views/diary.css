@@ -1,0 +1,11 @@
+header {
+    background-color:black;
+    color:white;
+}
+header h1 {{
+ font-size:24px;
+ font-family:san-serif;
+ font-weight:bolder;
+}
+
+
